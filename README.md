@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DevOps.
 - 💞️ I’m looking forward to collaborate on System Design & cutting edge technologies.
 - 📫 Reach me [@sharvinsoham](https://leetcode.com/sharvinsoham/)
-- 😄 Pronouns: He | She | They
+- 😄 Pronouns: He | She | They [GENDER IS NATIVE TO HOME, SEXSUALITY TO DISCUSSION FORUM OF CABINET, Confine it there.]
 - ⚡ Fun fact: My leadership style is forward thinking and relationship oriented. My favorite book is Sapiens & I'm an ambassador of Environmental Sustainability.
 
 <!---
