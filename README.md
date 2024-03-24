@@ -1,9 +1,8 @@
-- 👋 Hi, I’m [@sharvinsoham](https://github.com/sharvinsoham) & my expertise are system adminstraion & Digital Forensics.
+- 👋 Hi, I’m [@sharvinsoham](https://github.com/sharvinsoham) & my expertise are in domains of Machine Learning and System Adminstrations.
 - 👀 I’m interested in working in fields of Research & Development.
 - 🌱 I’m currently learning DevOps.
 - 💞️ I’m looking forward to collaborate on System Design & cutting edge technologies.
 - 📫 Reach me [@sharvinsoham](https://leetcode.com/sharvinsoham/)
-- 😄 Pronouns: He | She | They
 - ⚡ Fun fact: My leadership style is forward thinking and relationship oriented. My favorite book is Sapiens & I'm an ambassador of Environmental Sustainability.
 
 <!---
